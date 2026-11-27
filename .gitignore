@@ -1,0 +1,8 @@
+# 로컬 설정 (비밀 정보가 들어 있을 수 있음)
+.claude/settings.local.json
+
+# Playwright MCP 실행 중 생기는 임시 파일
+.playwright-mcp/
+
+# commit-message 스킬의 중간 산출물
+_workspace/
